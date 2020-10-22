@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\ORT\Prog2\Obligatorios\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ORT\Prog2\Obligatorios\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ORT\Prog2\Obligatorios\Obligatorio1\Obligatorio1\Dominio\bin\Debug\Dominio.dll
+C:\Users\hp\Desktop\ORT\Prog2\Obligatorios\Obligatorio1\Obligatorio1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\hp\Desktop\ORT\Prog2\Obligatorios\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.dll
+C:\Users\hp\Desktop\ORT\Prog2\Obligatorios\Obligatorio1\Obligatorio1\Dominio\obj\Debug\Dominio.pdb
